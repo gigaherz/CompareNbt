@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CompareNbt.Desktop": {
+      "commandName": "Project",
+      "commandLineArgs": "\"F:\\Minecraft\\Instances\\VanillaLatest\\saves\\New World (13)\\playerdata\\67752848-2bae-4c88-ae42-150fab05fea8.dat\"\r\n\"F:\\Minecraft\\Instances\\VanillaLatest\\saves\\New World (13)\\playerdata\\67752848-2bae-4c88-ae42-150fab05fea8.dat_old\""
+    }
+  }
+}
